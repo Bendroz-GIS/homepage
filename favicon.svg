@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1000 1000" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(1,0,0,1,-4050,-2508.9201)">
+        <g id="Cigle---Blanc" serif:id="Cigle - Blanc" transform="matrix(1,0,0,1,576.148915,0)">
+            <rect x="3473.851" y="2508.92" width="1000" height="1000" style="fill:white;fill-opacity:0;"></rect>
+            <clipPath id="_clip1">
+                <rect x="3473.851" y="2508.92" width="1000" height="1000"></rect>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.555982,0,0,1.378397,-2863.744348,-980.669008)">
+                    <rect x="4073.053" y="2531.629" width="642.681" height="725.48"></rect>
+                </g>
+                <g transform="matrix(2.837397,0,0,2.837397,3707.135724,2652.826652)">
+                    <path d="M20,98.22C37.208,76.168 63.958,62 94,62C124.042,62 150.792,76.168 168,98.22L168,40L188,40L188,158L187.987,158C187.19,209.499 145.416,251 94,251C42.251,251 0.271,208.961 0.003,157L0,157L0,0L20,0L20,98.22ZM94,82C53.231,82 20,115.255 20,156.5C20,197.745 53.231,231 94,231C134.769,231 168,197.745 168,156.5C168,115.255 134.769,82 94,82Z" style="fill:white;fill-rule:nonzero;"></path>
+                </g>
+            </g>
+        </g>
+    </g><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
