@@ -21,9 +21,13 @@ export const gridData = {
             link: "https://kdrive.infomaniak.com/app/office/2705228/3679",
             image: "./images/grids.png"
         }, {
-            alias: "Workflow Git/GitHub",
-            link: "https://github.com/Bendroz-GIS/docs/blob/main/git-workflow.md",
-            image: "./images/github.svg"
+            alias: "Suivis des tâches",
+            link: "https://kdrive.infomaniak.com/app/office/2705228/3679",
+            image: "./images/grids.png"
+        }, {
+            alias: "Gestion du stockage",
+            link: "https://kdrive.infomaniak.com/app/office/2705228/3680",
+            image: "./images/docs.png"
         }]
     },{
         title: "URL déployés",
